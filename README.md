@@ -1,2 +1,2 @@
-# junior
-First steps in Java
+# JuniorDataAnalyst
+My portfolio with data analysis and dashboards
